@@ -1,11 +1,22 @@
 h1, h2{
-    color: maroon;
+    color: rgb(45, 4, 158);
 }
 
 .post{
-    background-color: blanchedalmond;
+    background-color: rgb(65, 176, 240);
+    /* height: 100px; */
+    /* margin: 20px; */
+    /* width: 250px; */
+    width: 60%;
+    /* padding: 0px; */
+    padding-right: 5px;
 }
 
 .user {
     font-style: italic;
+}
+
+.btn{
+    margin: 10px 10px 10px 0px;
+    cursor: pointer;
 }
